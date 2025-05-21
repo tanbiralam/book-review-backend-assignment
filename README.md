@@ -23,8 +23,8 @@ A RESTful API for managing books and their reviews, built with Node.js, Express,
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd book-review-api
+git clone https://github.com/tanbiralam/book-review-backend-assignment.git
+cd book-review-backend-assignment
 ```
 
 2. Install dependencies:
@@ -223,12 +223,3 @@ The API uses standard HTTP status codes:
 3. Input validation and sanitization
 4. MongoDB injection prevention
 5. Rate limiting (TODO)
-
-## Future Improvements
-
-1. Add rate limiting
-2. Implement refresh tokens
-3. Add image upload for book covers
-4. Add user roles (admin, moderator)
-5. Add caching layer
-6. Add test suite
