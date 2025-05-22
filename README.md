@@ -1,6 +1,6 @@
 # Book Review API
 
-A RESTful API for managing books and their reviews, built with Node.js, Express, and MongoDB.
+A RESTful API for managing books and their reviews, built with Node.js, Express, and MongoDB
 
 ## Features
 
